@@ -47,4 +47,4 @@ A matrix comparing fare revenue and passenger count for every station across Bus
 
 ## Tools Used
 
-Power BI Desktop, DAX, Excel
+Power BI Desktop, Excel
